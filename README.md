@@ -1,8 +1,8 @@
 # wordpress-terraform
 This repo is about a hosting Wordpress website in Terraform within an AWS 
-##  Part 1 - VPC [vpc.tf](vpc.tf)
+##  Part 1 - VPC 
  
- - Virtual Private Cloud
+ - Virtual Private Cloud [vpc.tf](vpc.tf)
 
  - Public & Private Route Tables
 
