@@ -1,6 +1,6 @@
 # wordpress-terraform
 This repo is about a hosting Wordpress website in Terraform within an AWS 
-##  Part 1 - VPC
+##  Part 1 - VPC [vpc.tf](vpc.tf)
  
  - Virtual Private Cloud
 
@@ -22,7 +22,7 @@ This repo is about a hosting Wordpress website in Terraform within an AWS
 
 ## Part 2 - EC2 Instance
 
-- Key Pair
+- Key Pair [key_pair.tf](key_pair.tf)
 
-- Instance
+- Instances : [web_inst.tf](web_inst.tf )  , [database_inst.tf](database_inst.tf)
 
