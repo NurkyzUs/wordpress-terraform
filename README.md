@@ -1,2 +1,2 @@
 # wordpress-terraform
-this repo is about a hosting wordpress website with aws in terraform
+This repo is about a hosting Wordpress website with AWS in Terraform
