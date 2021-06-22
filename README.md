@@ -20,7 +20,7 @@ This repo is about a hosting Wordpress website in Terraform within AWS
 
  - Private Route Table attachment with NAT Gateway
 
-## Part 2 - EC2 Instance
+## Part 2 - EC2 Instances
 
 - Key Pair [key_pair.tf](key_pair.tf)
 
